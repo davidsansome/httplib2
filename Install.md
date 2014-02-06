@@ -9,11 +9,7 @@ For example it is available in
 
 ## Instructions
 
-The latest release of `httplib2` can be downloaded from the from the [Downloads](http://code.google.com/p/httplib2/downloads/list) page. 
-
-After downloading and unpacking the distribution archive, issue the following command:
-
-    $ python setup.py install
+    $ pip install httplib2
 
 ## Proxy
 
